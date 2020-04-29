@@ -16,33 +16,28 @@
     },
     {
       "completed": false,
-      "todoText": "l4w7",
+      "todoText": "dn65",
       "id": 4
     },
     {
-      "completed": false,
-      "todoText": "a2ddt",
+      "completed": true,
+      "todoText": "i3izl",
       "id": 6
     },
     {
-      "completed": false,
-      "todoText": "6wdch",
+      "completed": true,
+      "todoText": "6myg",
       "id": 7
     },
     {
       "completed": false,
-      "todoText": "qx0zm",
+      "todoText": "xd4jx",
       "id": 8
     },
     {
       "completed": true,
-      "todoText": "rjai",
+      "todoText": "eqa5",
       "id": 9
-    },
-    {
-      "completed": false,
-      "todoText": "wify",
-      "id": 10
     }
   ]
 }

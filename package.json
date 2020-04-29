@@ -1,10 +1,12 @@
 {
-  "name": "restful-pjs",
+  "name": "fetching-rest",
   "version": "1.0.0",
   "description": "",
   "main": "",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --watch db.json",
+    "reset": "node resetDb.js",
+    "clean-start": "npm run reset && npm run start"
   },
   "author": "@hackyourfuturebelgium",
   "license": "CC BY-SA",
